@@ -1,0 +1,18 @@
+api:
+  port: 9090
+  url: http://127.0.0.1:9090
+
+
+mongo:
+  host: 127.0.0.1
+  port: 27017
+  user: root
+  password: multiverse
+
+
+redis:
+  host: 127.0.0.1
+  port: 6379
+  user:
+  password:
+  database:
